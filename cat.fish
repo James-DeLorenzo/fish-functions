@@ -1,3 +1,3 @@
 function cat --wraps=bat
-bat $argv
+bat -P $argv
 end
