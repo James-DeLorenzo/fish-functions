@@ -1,3 +1,3 @@
-function lt --wraps=exa
-exa -lT $argv
+function lt --wraps=eza
+eza -lT $argv
 end

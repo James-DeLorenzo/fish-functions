@@ -1,3 +1,3 @@
-function l --wraps=exa
-exa --group-directories-first -F $argv
+function l --wraps=eza
+eza --group-directories-first -F $argv
 end
